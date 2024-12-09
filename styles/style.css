@@ -386,7 +386,7 @@
 }
 
 .footer__list-item {
-  padding-bottom: 0 16px 0 0;
+  padding: 0 16px 0 0;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
